@@ -1,0 +1,65 @@
+Shawshank Redemption|1994|Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.|9.3/10
+Pulp Fiction|1994|The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.|8.9/10
+Godfather|1972|The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.|9.2/10
+Dark Knight|2008|When the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.|9.0/10
+Schindler's List|1993|In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.|8.9/10
+Forrest Gump|1994|The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other historical events unfold through the perspective of an Alabama man with an IQ of 75.|8.8/10
+Lord of the Rings: The Return of the King|2003|Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.|8.9/10
+Fight Club|1999|An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.|8.8/10
+Inception|2010|A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.|8.8/10
+Matrix|1999|A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.|8.7/10
+Schindler's List|1993-12-15|In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.|8.9
+The Green Mile|1999-12-10|The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.|8.6
+Braveheart|1995-05-24|Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.|8.3/10
+The Godfather: Part II|1974-12-20|The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.|9.0/10
+The Terminator|1984-10-26|A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.|8.0/10
+The Dark Knight Rises|2012-07-20|Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.|8.4/10
+The Shining|1980-06-13|A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.|8.4/10
+The Sixth Sense|1999-08-06|A boy who communicates with spirits seeks the help of a disheartened child psychologist.|8.1/10
+The Departed|2006-10-06|An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.|8.5/10
+Pirates of the Caribbean: The Curse of the Black Pearl|2003-07-09|Blacksmith Will Turner teams up with eccentric pirate Captain Jack Sparrow to save his love, the governor's daughter, from Jack's former pirate allies who are now undead.|8.0/10
+Goodfellas|1990-09-19|The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.|8.7/10
+Terminator 2: Judgment Day|1991-07-03|A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.|8.5/10
+Interstellar|2014-11-07|A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.|8.6/10
+The Intouchables|2011-11-02|After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.|8.5/10
+
+Dilwale Dulhania Le Jayenge|1995|Raj and Simran meet during a trip across Europe and fall in love, but Simran's traditional father stands in their way.|8.1/10
+
+Kabhi Khushi Kabhie Gham|2001|Yashvardhan Raichand, a wealthy businessman, disowns his son Rahul for marrying a woman of lower social standing, setting off a chain of events.|7.4/10
+
+Lagaan|2001|To save their drought-ridden village, the residents challenge the British to a cricket match where if they win, they don't have to pay the land tax (Lagaan).|8.1/10
+
+Dil Chahta Hai|2001|Three inseparable childhood friends are just out of college. Nothing comes between them until they each fall in love, and their wildly different approaches to relationships creates tension.|8.1/10
+
+Kal Ho Naa Ho|2003|Aman, who has a terminal illness, helps Naina, an introverted girl, transform her life and discover love, while keeping his own feelings for her a secret.|8.0/10
+
+Koi... Mil Gaya|2003|Rohit, a developmentally delayed young man, befriends an extraterrestrial being, Jadoo, who gives him special powers.|7.1/10
+
+Veer-Zaara|2004|An epic love story of an Indian Air Force officer, Veer Pratap Singh, and a Pakistani woman, Zaara Hayaat Khan, separated for 22 years.|7.8/10
+
+Black|2005|A blind, deaf, and mute girl, Michelle, is taught to communicate and live a fulfilling life by her teacher, Debraj Sahai.|8.2/10
+
+Rang De Basanti|2006|A young woman's documentary project about freedom fighters transforms the lives of her friends, leading them to question the system.|8.1/10
+
+Guru|2007|Gurukant Desai, a villager with dreams of success, rises to become a powerful business tycoon, but faces personal and ethical dilemmas along the way.|7.6/10
+
+Jab We Met|2007|A depressed businessman, Aditya, meets a vibrant and carefree Geet during a train journey, leading to unexpected adventures and personal growth.|7.9/10
+
+Taare Zameen Par|2007|A teacher, Ram Shankar Nikumbh, helps a dyslexic boy, Ishaan, discover his hidden talent and gain confidence in himself.|8.4/10
+
+Rock On|2008|Four former bandmates reunite to relive their past glory and pursue their passion for music.|7.7/10
+
+3 Idiots|2009|Three engineering students challenge the conventional education system and search for their lost friend, Rancho.|8.4/10
+
+My Name Is Khan|2010|Rizwan Khan, a man with Asperger's, embarks on a journey to meet the President of the United States and clear his name after a tragic incident.|8.0/10
+
+Dabangg|2010|Chulbul Pandey, a fearless and witty police officer, takes on a corrupt politician and his henchmen.|6.2/10
+
+Zindagi Na Milegi Dobara|2011|Three friends embark on a bachelor road trip to Spain, discovering themselves and their relationships along the way.|8.1/10
+
+Barfi|2012|Barfi, a deaf-mute man, and two women, Shruti and Jhilmil, form a unique and heartwarming bond.|8.1/10
+
+Bhaag Milkha Bhaag|2013|The true story of the "Flying Sikh," Milkha Singh, an Olympic athlete who overcame personal tragedy to become one of India's most iconic sportsmen.|8.2/10
+
+Queen|2013|Rani, a jilted bride, goes on her pre-booked honeymoon alone and discovers her own independence and strength.|8.2/10
+nisarg|Dilwale|gjgf|09
